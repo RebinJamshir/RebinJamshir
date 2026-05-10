@@ -21,14 +21,6 @@ I work with a diverse range of technologies:
 - **Databases**: PostgreSQL, MongoDB, Redis
 - **Tools & Platforms**: Docker, Kubernetes, AWS, Git
 
-## 📂 Featured Projects
-
-Here are some projects I'm particularly proud of:
-
-- **[Project Name](#)** - Brief description of what makes this project special
-- **[Project Name](#)** - What problem does it solve?
-- **[Project Name](#)** - Why you should check it out
-
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RebinJamshir&show_icons=true&theme=radical)
@@ -42,15 +34,6 @@ I'm constantly exploring new concepts and staying updated with industry trends. 
 - Machine learning and AI applications
 - Microservices and distributed systems
 - Web3 and blockchain technologies
-
-## 📫 Get In Touch
-
-I'd love to connect! Feel free to reach out:
-
-- 💼 **LinkedIn**: [Your LinkedIn](#)
-- 🐦 **Twitter**: [@YourHandle](#)
-- 📧 **Email**: your.email@example.com
-- 🌐 **Website**: [yourwebsite.com](#)
 
 ## 💬 Let's Collaborate
 
